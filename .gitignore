@@ -1,0 +1,21 @@
+/target
+.idea/
+.idea/*
+.idea/libraries/*
+*.iml
+catalina.base_IS_UNDEFINED
+.classpath
+.project
+.settings/
+my/
+logs/
+/server.log.*
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
+qantas-personalization-auto-tests.iml
+.idea/encodings.xml
+.idea/compiler.xml
+
+ .idea/.name
+ .idea/modules.xml
